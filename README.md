@@ -70,8 +70,8 @@ MULTIMEDIAL
 </html>
 <!-- Fin del documento HTML -->
 ```
- Unidad 1: Hipervinculo
-Mi primera pagina.html
+# Unidad 1: Hipervinculo
+## Mi primera pagina.html
 <!DOCTYPE html>
 <html lang="es"> 
 <head> 
@@ -86,8 +86,8 @@ Mi primera pagina.html
 
 </body>
 </html>
-```
-```Mi segunda primera html
+
+## Mi segunda pagina html
 <!DOCTYPE html>
 <html>
 <head>
@@ -104,8 +104,8 @@ Mi primera pagina.html
 
 </body>
 </html>
-```
-```Index.html
+
+## Index.html
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
@@ -182,8 +182,8 @@ Hola!
 
 </html>
 <!-- Fin del documento HTML -->
-```
-```Obras.html
+
+## Obras.html
 <!DOCTYPE html>
 <html>
 <head>
